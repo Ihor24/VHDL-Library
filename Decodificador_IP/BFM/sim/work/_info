@@ -1,0 +1,602 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/iyasnyy/Desktop/Test_encoder/BFM/sim
+T_opt
+!s110 1624204310
+VQd^^;=dFQ0K8nT9oNBU_o0
+04 14 3 work axi_encoder_tb sim 1
+=1-000ae431a4f1-60cf6416-b5c21-73f61
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+Eaxi_encoder_tb
+Z0 w1623602094
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z4 d/home/iyasnyy/Desktop/Practica_final/Decodificador_IP/BFM/sim
+Z5 8../bench/axi_encoder_tb.vhd
+Z6 F../bench/axi_encoder_tb.vhd
+l0
+L37
+V]2[:6J1o_DWT96^VLBjOZ1
+!s100 3;1lBk]OeH;zDXcfRS?fL2
+Z7 OL;C;10.7c;67
+31
+Z8 !s110 1624204309
+!i10b 1
+Z9 !s108 1624204309.000000
+Z10 !s90 -reportprogress|300|-O0|-93|-work|work|../bench/axi_encoder_tb.vhd|
+Z11 !s107 ../bench/axi_encoder_tb.vhd|
+!i113 0
+Z12 o-O0 -93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Asim
+Z14 DPx4 work 14 interfaces_pkg 0 22 7zG??zHZ6GdDjKd4B`TXG0
+Z15 DEx4 work 14 m_axi_lite_bfm 0 22 EMEV9fi5K8zJUE[SZLZ`02
+Z16 DEx4 work 16 axi_encoder_v1_0 0 22 ff>mzDJ?>FUmVGm6?o2Z<3
+R1
+R2
+R3
+DEx4 work 14 axi_encoder_tb 0 22 ]2[:6J1o_DWT96^VLBjOZ1
+l77
+L40
+VEQ`_Cc7hJH7>7_LVSU0Eg0
+!s100 I`ilVidXjH8>[QmABgIiW3
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Eaxi_encoder_v1_0
+Z17 w1624010651
+R1
+R2
+R3
+R4
+Z18 8../../../Decodificador_IP/ip_repo/axi_encoder_1.0/hdl/axi_encoder_v1_0.vhd
+Z19 F../../../Decodificador_IP/ip_repo/axi_encoder_1.0/hdl/axi_encoder_v1_0.vhd
+l0
+L5
+Vff>mzDJ?>FUmVGm6?o2Z<3
+!s100 QfH=C[OhV^cLX7F7<cC^E2
+R7
+31
+R8
+!i10b 1
+R9
+Z20 !s90 -reportprogress|300|-O0|-93|-work|work|../../../Decodificador_IP/ip_repo/axi_encoder_1.0/hdl/axi_encoder_v1_0.vhd|
+Z21 !s107 ../../../Decodificador_IP/ip_repo/axi_encoder_1.0/hdl/axi_encoder_v1_0.vhd|
+!i113 0
+R12
+R13
+Aarch_imp
+R1
+R2
+R3
+R16
+l89
+L52
+VnJXTY5l700fgUBG_E49KE0
+!s100 ]CnVVQgHNcD:9m`08cIa70
+R7
+31
+R8
+!i10b 1
+R9
+R20
+R21
+!i113 0
+R12
+R13
+Eaxi_encoder_v1_0_s_axi
+Z22 w1624010706
+R1
+R2
+R3
+R4
+Z23 8../../../Decodificador_IP/ip_repo/axi_encoder_1.0/hdl/axi_encoder_v1_0_S_AXI.vhd
+Z24 F../../../Decodificador_IP/ip_repo/axi_encoder_1.0/hdl/axi_encoder_v1_0_S_AXI.vhd
+l0
+L5
+VDGcDT`cX0fS=m95_LAEP`1
+!s100 KK[CP@U6bjC53dXCBDV?i3
+R7
+31
+R8
+!i10b 1
+R9
+Z25 !s90 -reportprogress|300|-O0|-93|-work|work|../../../Decodificador_IP/ip_repo/axi_encoder_1.0/hdl/axi_encoder_v1_0_S_AXI.vhd|
+Z26 !s107 ../../../Decodificador_IP/ip_repo/axi_encoder_1.0/hdl/axi_encoder_v1_0_S_AXI.vhd|
+!i113 0
+R12
+R13
+Aarch_imp
+R1
+R2
+R3
+DEx4 work 22 axi_encoder_v1_0_s_axi 0 22 DGcDT`cX0fS=m95_LAEP`1
+l149
+L89
+VokW8YC;PG4h=K:O5=WN>a1
+!s100 XQQRK20gA^17K0CHEl4Q40
+R7
+31
+R8
+!i10b 1
+R9
+R25
+R26
+!i113 0
+R12
+R13
+Eaxi_motor_enc
+Z27 w1623931369
+R1
+R2
+R3
+R4
+Z28 8../../../Decodificador_IP/axi_motor_enc.vhd
+Z29 F../../../Decodificador_IP/axi_motor_enc.vhd
+l0
+L5
+VOXSAb7]fRSMo>=m1IU]jS0
+!s100 Xk0<oEjLo1<;P9CV2CjZI3
+R7
+31
+R8
+!i10b 1
+R9
+Z30 !s90 -reportprogress|300|-O0|-93|-work|work|../../../Decodificador_IP/axi_motor_enc.vhd|
+Z31 !s107 ../../../Decodificador_IP/axi_motor_enc.vhd|
+!i113 0
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 13 axi_motor_enc 0 22 OXSAb7]fRSMo>=m1IU]jS0
+l82
+L19
+VejgndzohhXLL2dQA^:fhN0
+!s100 2Gcc5i]zYUm6GQh[ZjG:?0
+R7
+31
+R8
+!i10b 1
+R9
+R30
+R31
+!i113 0
+R12
+R13
+Econtador_periodo
+Z32 w1623576649
+R1
+R2
+R3
+R4
+Z33 8../../../Decodificador_IP/Contador_Periodo.vhd
+Z34 F../../../Decodificador_IP/Contador_Periodo.vhd
+l0
+L5
+VoNZJZ2h_Ze_YN<360Y5LK3
+!s100 SoPaU0UPFUVY@G]=[OmP@2
+R7
+31
+R8
+!i10b 1
+R9
+Z35 !s90 -reportprogress|300|-O0|-93|-work|work|../../../Decodificador_IP/Contador_Periodo.vhd|
+Z36 !s107 ../../../Decodificador_IP/Contador_Periodo.vhd|
+!i113 0
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 16 contador_periodo 0 22 oNZJZ2h_Ze_YN<360Y5LK3
+l19
+L14
+VJoc:NE6=foLYD@VD0=eT`3
+!s100 e]^Vo3h]W^JhI;`7Lh=?l2
+R7
+31
+R8
+!i10b 1
+R9
+R35
+R36
+!i113 0
+R12
+R13
+Econtador_posicion
+Z37 w1623936780
+R1
+R2
+R3
+R4
+Z38 8../../../Decodificador_IP/Contador_Posicion.vhd
+Z39 F../../../Decodificador_IP/Contador_Posicion.vhd
+l0
+L5
+VWb9>S0nZg:=?6^@6P0mk82
+!s100 Vzm`B7Pio4OMSS=]@Qc:I3
+R7
+31
+R8
+!i10b 1
+R9
+Z40 !s90 -reportprogress|300|-O0|-93|-work|work|../../../Decodificador_IP/Contador_Posicion.vhd|
+Z41 !s107 ../../../Decodificador_IP/Contador_Posicion.vhd|
+!i113 0
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 17 contador_posicion 0 22 Wb9>S0nZg:=?6^@6P0mk82
+l28
+L20
+V37c9nHaLQb3ESAe]B@6AD3
+!s100 `QJAi?JYNTl01cAUGk2>N2
+R7
+31
+R8
+!i10b 1
+R9
+R40
+R41
+!i113 0
+R12
+R13
+Efiltro_digital
+R32
+R1
+R2
+R3
+R4
+Z42 8../../../Decodificador_IP/Filtro_Digital.vhd
+Z43 F../../../Decodificador_IP/Filtro_Digital.vhd
+l0
+L5
+VBg151o;4Q7=mNUP8JI?<a2
+!s100 9;ABhaAaf_Em0B`Vo3HbO0
+R7
+31
+R8
+!i10b 1
+R9
+Z44 !s90 -reportprogress|300|-O0|-93|-work|work|../../../Decodificador_IP/Filtro_Digital.vhd|
+Z45 !s107 ../../../Decodificador_IP/Filtro_Digital.vhd|
+!i113 0
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 14 filtro_digital 0 22 Bg151o;4Q7=mNUP8JI?<a2
+l48
+L16
+VLVhZ311KW`FUiaOXCQD[G3
+!s100 VUmWQV]=bR9HB:Flmh4mA2
+R7
+31
+R8
+!i10b 1
+R9
+R44
+R45
+!i113 0
+R12
+R13
+Efiltro_digital_a
+Z46 w1623854835
+R1
+R2
+R3
+R4
+Z47 8../../../Decodificador_IP/Filtro_digital_A.vhd
+Z48 F../../../Decodificador_IP/Filtro_digital_A.vhd
+l0
+L5
+VJiJ1SU6HAIPG`>^`VL0iA2
+!s100 VmZKC`1UebFWnMPh^k_182
+R7
+31
+R8
+!i10b 1
+R9
+Z49 !s90 -reportprogress|300|-O0|-93|-work|work|../../../Decodificador_IP/Filtro_digital_A.vhd|
+Z50 !s107 ../../../Decodificador_IP/Filtro_digital_A.vhd|
+!i113 0
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 16 filtro_digital_a 0 22 JiJ1SU6HAIPG`>^`VL0iA2
+l23
+L15
+V<Fi>K:EeJbXaj9f<c6L8N2
+!s100 iDm[QkiNOhP8S>E:L5Tde1
+R7
+31
+R8
+!i10b 1
+R9
+R49
+R50
+!i113 0
+R12
+R13
+Efiltro_digital_b
+Z51 w1623854842
+R1
+R2
+R3
+R4
+Z52 8../../../Decodificador_IP/Filtro_digital_B.vhd
+Z53 F../../../Decodificador_IP/Filtro_digital_B.vhd
+l0
+L5
+V3CB2K?L0Ef5^BifNi4oiG3
+!s100 QWBS1DNf0cgn1o:JNkzVM3
+R7
+31
+R8
+!i10b 1
+R9
+Z54 !s90 -reportprogress|300|-O0|-93|-work|work|../../../Decodificador_IP/Filtro_digital_B.vhd|
+Z55 !s107 ../../../Decodificador_IP/Filtro_digital_B.vhd|
+!i113 0
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 16 filtro_digital_b 0 22 3CB2K?L0Ef5^BifNi4oiG3
+l23
+L15
+V1DHS?Q2<KnooOOGb7BQKI3
+!s100 L]>[hahG^TBXPC3`e=LnX3
+R7
+31
+R8
+!i10b 1
+R9
+R54
+R55
+!i113 0
+R12
+R13
+Efsm
+R32
+R1
+R2
+R3
+R4
+Z56 8../../../Decodificador_IP/FSM.vhd
+Z57 F../../../Decodificador_IP/FSM.vhd
+l0
+L5
+V38_0`?SRmb:Sl@moXong83
+!s100 1J?8I?h9<eYGY2[1Xa4^42
+R7
+31
+R8
+!i10b 1
+R9
+Z58 !s90 -reportprogress|300|-O0|-93|-work|work|../../../Decodificador_IP/FSM.vhd|
+Z59 !s107 ../../../Decodificador_IP/FSM.vhd|
+!i113 0
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 3 fsm 0 22 38_0`?SRmb:Sl@moXong83
+l37
+L17
+Vz9`bZWCCnF2R:QPMP7=hQ0
+!s100 4fSDbob7@:ddN^AmlahS:3
+R7
+31
+R8
+!i10b 1
+R9
+R58
+R59
+!i113 0
+R12
+R13
+Pinterfaces_pkg
+R1
+R2
+R3
+Z60 w1623340069
+R4
+Z61 8../bench/interfaces_pkg.vhd
+Z62 F../bench/interfaces_pkg.vhd
+l0
+L33
+V7zG??zHZ6GdDjKd4B`TXG0
+!s100 6[_hEJ_R?f@QjzDRRi0m_3
+R7
+31
+b1
+R8
+!i10b 1
+R9
+Z63 !s90 -reportprogress|300|-O0|-93|-work|work|../bench/interfaces_pkg.vhd|
+Z64 !s107 ../bench/interfaces_pkg.vhd|
+!i113 0
+R12
+R13
+Bbody
+R14
+R1
+R2
+R3
+l0
+L134
+V<8T>e_bjhCaV5ZGe2B@VA0
+!s100 ]ZD3kKD`QPM9`n<R5kLTK3
+R7
+31
+R8
+!i10b 1
+R9
+R63
+R64
+!i113 0
+R12
+R13
+Em_axi_lite_bfm
+Z65 w1623936189
+R14
+R1
+R2
+R3
+R4
+Z66 8../bench/m_axi_lite_bfm.vhd
+Z67 F../bench/m_axi_lite_bfm.vhd
+l0
+L39
+VEMEV9fi5K8zJUE[SZLZ`02
+!s100 E`[VfKTI[>:jMU3JNYR242
+R7
+31
+R8
+!i10b 1
+R9
+Z68 !s90 -reportprogress|300|-O0|-93|-work|work|../bench/m_axi_lite_bfm.vhd|
+Z69 !s107 ../bench/m_axi_lite_bfm.vhd|
+!i113 0
+R12
+R13
+Asim
+Z70 DEx4 work 19 m_axi_lite_expansor 0 22 UYVc5YBkCeH8:j86b998I0
+R14
+R1
+R2
+R3
+R15
+l84
+L72
+VnFN0nmV41A8<?^4WOLSQZ0
+!s100 zd;1;`8AGSTSQE?<:OQ]c1
+R7
+31
+R8
+!i10b 1
+R9
+R68
+R69
+!i113 0
+R12
+R13
+Em_axi_lite_expansor
+R60
+R14
+R1
+R2
+R3
+R4
+Z71 8../bench/m_axi_lite_expansor.vhd
+Z72 F../bench/m_axi_lite_expansor.vhd
+l0
+L39
+VUYVc5YBkCeH8:j86b998I0
+!s100 Qa5fN20]RYE04ea9DC;:>3
+R7
+31
+R8
+!i10b 1
+R9
+Z73 !s90 -reportprogress|300|-O0|-93|-work|work|../bench/m_axi_lite_expansor.vhd|
+Z74 !s107 ../bench/m_axi_lite_expansor.vhd|
+!i113 0
+R12
+R13
+Asim
+R14
+R1
+R2
+R3
+R70
+l72
+L71
+VhX2Ndbjel]bPF;zbzngKz3
+!s100 c?CK6g8ReITPcW45:>b;B3
+R7
+31
+R8
+!i10b 1
+R9
+R73
+R74
+!i113 0
+R12
+R13
+Eprescaler
+Z75 w1624204300
+R1
+R2
+R3
+R4
+Z76 8../../../Decodificador_IP/Prescaler.vhd
+Z77 F../../../Decodificador_IP/Prescaler.vhd
+l0
+L5
+VS?4;o>f[^6VEA;`W1YbD31
+!s100 e_zQD8XJ3bSW70gcFggAO0
+R7
+31
+R8
+!i10b 1
+R9
+Z78 !s90 -reportprogress|300|-O0|-93|-work|work|../../../Decodificador_IP/Prescaler.vhd|
+Z79 !s107 ../../../Decodificador_IP/Prescaler.vhd|
+!i113 0
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 9 prescaler 0 22 S?4;o>f[^6VEA;`W1YbD31
+l21
+L13
+VMZZ<RF8MSfdjF[eZRjUjH1
+!s100 7@G3J6Bce41mXJ4GU=5PK1
+R7
+31
+R8
+!i10b 1
+R9
+R78
+R79
+!i113 0
+R12
+R13
